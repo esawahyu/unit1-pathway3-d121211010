@@ -96,7 +96,7 @@ fun CardContent() {
     )
     {
         Text(
-            text= "Aqidatul Izza Kasim",
+            text= "Muh.Esa Wahyu",
             color = Color.Black,
             fontSize = 30.sp,
             lineHeight = 100.sp
@@ -105,7 +105,7 @@ fun CardContent() {
         Spacer(modifier = Modifier.height(2.dp))
 
         Text(
-            text = "D121211068 - Teknik Informatika 2021",
+            text = "D121211010 - Teknik Informatika 2021",
             color = Color(0xFF006400),
             fontWeight = FontWeight.Bold,
             fontSize = 12.sp,
@@ -143,7 +143,7 @@ fun CardContent2( ) {
                 contentDescription = "Ikon Phone")
 
             Text(
-                text = "081342057203",
+                text = "0824689767",
                 fontSize = 15.sp)
 
         }
@@ -164,7 +164,7 @@ fun CardContent2( ) {
                 tint = color
             )
             Text(
-                text = "izzaaqdh",
+                text = "esawahyu",
                 fontSize = 15.sp
             )
         }
@@ -185,7 +185,7 @@ fun CardContent2( ) {
                 tint = color
             )
             Text(
-                text = "izza19aqidatul@gmail.com",
+                text = "esawahyu861l@gmail.com",
                 fontSize = 15.sp
             )
         }
